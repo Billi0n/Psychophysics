@@ -1,0 +1,793 @@
+1.0995 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.9466 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+9.6320 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc03436d9e8>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc050776f60>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.6324 	EXP 	window1: mouseVisible = True
+9.6325 	EXP 	window1: recordFrameIntervals = False
+9.7982 	EXP 	window1: recordFrameIntervals = True
+9.9823 	EXP 	window1: recordFrameIntervals = False
+11.4261 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.6313 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+11.6378 	EXP 	Created text2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+11.8449 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.0366 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+12.0420 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+12.2909 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.4852 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+12.4908 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+12.5091 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Had you seen this stimulus before?', units='height', win=Window(...), wrapWidth=1)
+12.7220 	EXP 	text: autoDraw = True
+31.0362 	EXP 	Imported rectangles.xlsx as conditions, 20 conditions, 3 params
+31.0371 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+31.0376 	EXP 	New trial (rep=0, index=0): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '1nogo3.png'}
+31.0849 	DATA 	Keypress: space
+31.1037 	EXP 	text: autoDraw = False
+31.1037 	EXP 	image: image = '1nogo3.png'
+31.1037 	EXP 	text2: autoDraw = True
+32.0745 	EXP 	image: autoDraw = True
+32.1070 	EXP 	text2: autoDraw = False
+34.0797 	EXP 	image: autoDraw = False
+35.0350 	EXP 	New trial (rep=0, index=1): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '1nogo2.png'}
+35.0670 	EXP 	image: autoDraw = False
+35.0670 	EXP 	text2: autoDraw = False
+35.0670 	EXP 	image: image = '1nogo2.png'
+35.0670 	EXP 	text2: autoDraw = True
+36.0515 	EXP 	image: autoDraw = True
+36.0684 	EXP 	text2: autoDraw = False
+38.0557 	EXP 	image: autoDraw = False
+39.0281 	EXP 	New trial (rep=0, index=2): {'condition': 'salient', 'task': 'nogo', 'stim_file': '1nogov3.png'}
+39.0618 	EXP 	image: autoDraw = False
+39.0618 	EXP 	text2: autoDraw = False
+39.0618 	EXP 	image: image = '1nogov3.png'
+39.0618 	EXP 	text2: autoDraw = True
+40.0447 	EXP 	image: autoDraw = True
+40.0612 	EXP 	text2: autoDraw = False
+42.0509 	EXP 	image: autoDraw = False
+43.0389 	EXP 	New trial (rep=0, index=3): {'condition': 'salient', 'task': 'go', 'stim_file': '1gov4.png'}
+43.0703 	EXP 	image: autoDraw = False
+43.0703 	EXP 	text2: autoDraw = False
+43.0703 	EXP 	image: image = '1gov4.png'
+43.0703 	EXP 	text2: autoDraw = True
+44.0564 	EXP 	image: autoDraw = True
+44.0732 	EXP 	text2: autoDraw = False
+44.6587 	EXP 	New trial (rep=0, index=4): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '1go4.png'}
+44.6757 	DATA 	Keypress: space
+44.6915 	EXP 	image: autoDraw = False
+44.6915 	EXP 	text2: autoDraw = False
+44.6915 	EXP 	image: image = '1go4.png'
+44.6915 	EXP 	text2: autoDraw = True
+45.6774 	EXP 	image: autoDraw = True
+45.6941 	EXP 	text2: autoDraw = False
+46.2144 	EXP 	New trial (rep=0, index=5): {'condition': 'salient', 'task': 'nogo', 'stim_file': '1nogov4.png'}
+46.2347 	DATA 	Keypress: space
+46.2456 	EXP 	image: autoDraw = False
+46.2456 	EXP 	text2: autoDraw = False
+46.2456 	EXP 	image: image = '1nogov4.png'
+46.2456 	EXP 	text2: autoDraw = True
+47.2147 	EXP 	image: autoDraw = True
+47.2482 	EXP 	text2: autoDraw = False
+49.2199 	EXP 	image: autoDraw = False
+50.2081 	EXP 	New trial (rep=0, index=6): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '1go1.png'}
+50.2395 	EXP 	image: autoDraw = False
+50.2395 	EXP 	text2: autoDraw = False
+50.2395 	EXP 	image: image = '1go1.png'
+50.2395 	EXP 	text2: autoDraw = True
+51.2088 	EXP 	image: autoDraw = True
+51.2421 	EXP 	text2: autoDraw = False
+51.7959 	EXP 	New trial (rep=0, index=7): {'condition': 'salient', 'task': 'go', 'stim_file': '1gov3.png'}
+51.8144 	DATA 	Keypress: space
+51.8273 	EXP 	image: autoDraw = False
+51.8273 	EXP 	text2: autoDraw = False
+51.8273 	EXP 	image: image = '1gov3.png'
+51.8273 	EXP 	text2: autoDraw = True
+52.7962 	EXP 	image: autoDraw = True
+52.8298 	EXP 	text2: autoDraw = False
+53.3980 	EXP 	New trial (rep=0, index=8): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '1nogo.png'}
+53.4123 	DATA 	Keypress: space
+53.4315 	EXP 	image: autoDraw = False
+53.4315 	EXP 	text2: autoDraw = False
+53.4315 	EXP 	image: image = '1nogo.png'
+53.4315 	EXP 	text2: autoDraw = True
+54.4172 	EXP 	image: autoDraw = True
+54.4341 	EXP 	text2: autoDraw = False
+56.4228 	EXP 	image: autoDraw = False
+57.4107 	EXP 	New trial (rep=0, index=9): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '1nogo1.png'}
+57.4420 	EXP 	image: autoDraw = False
+57.4420 	EXP 	text2: autoDraw = False
+57.4420 	EXP 	image: image = '1nogo1.png'
+57.4420 	EXP 	text2: autoDraw = True
+58.4113 	EXP 	image: autoDraw = True
+58.4442 	EXP 	text2: autoDraw = False
+60.4166 	EXP 	image: autoDraw = False
+61.4046 	EXP 	New trial (rep=0, index=10): {'condition': 'salient', 'task': 'nogo', 'stim_file': '1nogov1.png'}
+61.4361 	EXP 	image: autoDraw = False
+61.4361 	EXP 	text2: autoDraw = False
+61.4361 	EXP 	image: image = '1nogov1.png'
+61.4361 	EXP 	text2: autoDraw = True
+62.4221 	EXP 	image: autoDraw = True
+62.4387 	EXP 	text2: autoDraw = False
+64.4276 	EXP 	image: autoDraw = False
+65.4153 	EXP 	New trial (rep=0, index=11): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '1nogo4.png'}
+65.4467 	EXP 	image: autoDraw = False
+65.4467 	EXP 	text2: autoDraw = False
+65.4467 	EXP 	image: image = '1nogo4.png'
+65.4467 	EXP 	text2: autoDraw = True
+66.4160 	EXP 	image: autoDraw = True
+66.4494 	EXP 	text2: autoDraw = False
+68.4214 	EXP 	image: autoDraw = False
+69.4094 	EXP 	New trial (rep=0, index=12): {'condition': 'salient', 'task': 'go', 'stim_file': '1gov1.png'}
+69.4407 	EXP 	image: autoDraw = False
+69.4407 	EXP 	text2: autoDraw = False
+69.4407 	EXP 	image: image = '1gov1.png'
+69.4407 	EXP 	text2: autoDraw = True
+70.4099 	EXP 	image: autoDraw = True
+70.4435 	EXP 	text2: autoDraw = False
+70.9138 	EXP 	New trial (rep=0, index=13): {'condition': 'salient', 'task': 'go', 'stim_file': '1gov2.png'}
+70.9324 	DATA 	Keypress: space
+70.9449 	EXP 	image: autoDraw = False
+70.9449 	EXP 	text2: autoDraw = False
+70.9449 	EXP 	image: image = '1gov2.png'
+70.9449 	EXP 	text2: autoDraw = True
+71.9141 	EXP 	image: autoDraw = True
+71.9474 	EXP 	text2: autoDraw = False
+72.4848 	EXP 	New trial (rep=0, index=14): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '1go.png'}
+72.5032 	DATA 	Keypress: space
+72.5158 	EXP 	image: autoDraw = False
+72.5158 	EXP 	text2: autoDraw = False
+72.5158 	EXP 	image: image = '1go.png'
+72.5158 	EXP 	text2: autoDraw = True
+73.4848 	EXP 	image: autoDraw = True
+73.5183 	EXP 	text2: autoDraw = False
+74.0374 	EXP 	New trial (rep=0, index=15): {'condition': 'salient', 'task': 'nogo', 'stim_file': '1nogov2.png'}
+74.0523 	DATA 	Keypress: space
+74.0700 	EXP 	image: autoDraw = False
+74.0700 	EXP 	text2: autoDraw = False
+74.0700 	EXP 	image: image = '1nogov2.png'
+74.0700 	EXP 	text2: autoDraw = True
+75.0557 	EXP 	image: autoDraw = True
+75.0724 	EXP 	text2: autoDraw = False
+77.0610 	EXP 	image: autoDraw = False
+78.0491 	EXP 	New trial (rep=0, index=16): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '1go2.png'}
+78.0806 	EXP 	image: autoDraw = False
+78.0806 	EXP 	text2: autoDraw = False
+78.0806 	EXP 	image: image = '1go2.png'
+78.0806 	EXP 	text2: autoDraw = True
+79.0497 	EXP 	image: autoDraw = True
+79.0830 	EXP 	text2: autoDraw = False
+79.5694 	EXP 	New trial (rep=0, index=17): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '1go3.png'}
+79.5856 	DATA 	Keypress: space
+79.6012 	EXP 	image: autoDraw = False
+79.6012 	EXP 	text2: autoDraw = False
+79.6012 	EXP 	image: image = '1go3.png'
+79.6012 	EXP 	text2: autoDraw = True
+80.5871 	EXP 	image: autoDraw = True
+80.6040 	EXP 	text2: autoDraw = False
+81.1905 	EXP 	New trial (rep=0, index=18): {'condition': 'salient', 'task': 'nogo', 'stim_file': '1nogov.png'}
+81.2075 	DATA 	Keypress: space
+81.2223 	EXP 	image: autoDraw = False
+81.2223 	EXP 	text2: autoDraw = False
+81.2223 	EXP 	image: image = '1nogov.png'
+81.2223 	EXP 	text2: autoDraw = True
+82.2083 	EXP 	image: autoDraw = True
+82.2249 	EXP 	text2: autoDraw = False
+84.2137 	EXP 	image: autoDraw = False
+85.2015 	EXP 	New trial (rep=0, index=19): {'condition': 'salient', 'task': 'go', 'stim_file': '1gov.png'}
+85.2331 	EXP 	image: autoDraw = False
+85.2331 	EXP 	text2: autoDraw = False
+85.2331 	EXP 	image: image = '1gov.png'
+85.2331 	EXP 	text2: autoDraw = True
+86.2190 	EXP 	image: autoDraw = True
+86.2355 	EXP 	text2: autoDraw = False
+86.6917 	DATA 	Keypress: space
+86.7028 	EXP 	image: autoDraw = False
+86.7028 	EXP 	text2: autoDraw = False
+86.7028 	EXP 	text_3: autoDraw = True
+95.0854 	EXP 	Imported circles.xlsx as conditions, 20 conditions, 3 params
+95.0860 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+95.0863 	EXP 	New trial (rep=0, index=0): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '2nogo4.png'}
+95.1028 	DATA 	Keypress: space
+95.1101 	EXP 	text_3: autoDraw = False
+95.1101 	EXP 	image_2: image = '2nogo4.png'
+95.1101 	EXP 	text_2: autoDraw = True
+96.0952 	EXP 	image_2: autoDraw = True
+96.1120 	EXP 	text_2: autoDraw = False
+98.1006 	EXP 	image_2: autoDraw = False
+99.0893 	EXP 	New trial (rep=0, index=1): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '2nogo1.png'}
+99.1202 	EXP 	text_2: autoDraw = False
+99.1202 	EXP 	image_2: autoDraw = False
+99.1202 	EXP 	image_2: image = '2nogo1.png'
+99.1202 	EXP 	text_2: autoDraw = True
+100.1060 	EXP 	image_2: autoDraw = True
+100.1226 	EXP 	text_2: autoDraw = False
+102.1114 	EXP 	image_2: autoDraw = False
+103.0826 	EXP 	New trial (rep=0, index=2): {'condition': 'salient', 'task': 'nogo', 'stim_file': '2nogov.png'}
+103.1140 	EXP 	text_2: autoDraw = False
+103.1140 	EXP 	image_2: autoDraw = False
+103.1140 	EXP 	image_2: image = '2nogov.png'
+103.1140 	EXP 	text_2: autoDraw = True
+104.1001 	EXP 	image_2: autoDraw = True
+104.1167 	EXP 	text_2: autoDraw = False
+106.1054 	EXP 	image_2: autoDraw = False
+107.0932 	EXP 	New trial (rep=0, index=3): {'condition': 'salient', 'task': 'go', 'stim_file': '2gov.png'}
+107.1250 	EXP 	text_2: autoDraw = False
+107.1250 	EXP 	image_2: autoDraw = False
+107.1250 	EXP 	image_2: image = '2gov.png'
+107.1250 	EXP 	text_2: autoDraw = True
+108.1108 	EXP 	image_2: autoDraw = True
+108.1273 	EXP 	text_2: autoDraw = False
+108.6297 	EXP 	New trial (rep=0, index=4): {'condition': 'salient', 'task': 'nogo', 'stim_file': '2nogov1.png'}
+108.6457 	DATA 	Keypress: space
+108.6624 	EXP 	text_2: autoDraw = False
+108.6624 	EXP 	image_2: autoDraw = False
+108.6624 	EXP 	image_2: image = '2nogov1.png'
+108.6624 	EXP 	text_2: autoDraw = True
+109.6481 	EXP 	image_2: autoDraw = True
+109.6649 	EXP 	text_2: autoDraw = False
+111.6534 	EXP 	image_2: autoDraw = False
+112.6417 	EXP 	New trial (rep=0, index=5): {'condition': 'salient', 'task': 'nogo', 'stim_file': '2nogov3.png'}
+112.6730 	EXP 	text_2: autoDraw = False
+112.6730 	EXP 	image_2: autoDraw = False
+112.6730 	EXP 	image_2: image = '2nogov3.png'
+112.6730 	EXP 	text_2: autoDraw = True
+113.6588 	EXP 	image_2: autoDraw = True
+113.6755 	EXP 	text_2: autoDraw = False
+115.6634 	EXP 	image_2: autoDraw = False
+116.6509 	EXP 	New trial (rep=0, index=6): {'condition': 'salient', 'task': 'go', 'stim_file': '2gov4.png'}
+116.6825 	EXP 	text_2: autoDraw = False
+116.6825 	EXP 	image_2: autoDraw = False
+116.6825 	EXP 	image_2: image = '2gov4.png'
+116.6825 	EXP 	text_2: autoDraw = True
+117.6689 	EXP 	image_2: autoDraw = True
+117.6852 	EXP 	text_2: autoDraw = False
+118.2382 	EXP 	New trial (rep=0, index=7): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '2go.png'}
+118.2558 	DATA 	Keypress: space
+118.2700 	EXP 	text_2: autoDraw = False
+118.2700 	EXP 	image_2: autoDraw = False
+118.2700 	EXP 	image_2: image = '2go.png'
+118.2700 	EXP 	text_2: autoDraw = True
+119.2560 	EXP 	image_2: autoDraw = True
+119.2727 	EXP 	text_2: autoDraw = False
+119.7108 	EXP 	New trial (rep=0, index=8): {'condition': 'salient', 'task': 'nogo', 'stim_file': '2nogov4.png'}
+119.7265 	DATA 	Keypress: space
+119.7418 	EXP 	text_2: autoDraw = False
+119.7418 	EXP 	image_2: autoDraw = False
+119.7418 	EXP 	image_2: image = '2nogov4.png'
+119.7418 	EXP 	text_2: autoDraw = True
+120.7272 	EXP 	image_2: autoDraw = True
+120.7443 	EXP 	text_2: autoDraw = False
+122.7332 	EXP 	image_2: autoDraw = False
+123.7210 	EXP 	New trial (rep=0, index=9): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '2go1.png'}
+123.7524 	EXP 	text_2: autoDraw = False
+123.7524 	EXP 	image_2: autoDraw = False
+123.7524 	EXP 	image_2: image = '2go1.png'
+123.7524 	EXP 	text_2: autoDraw = True
+124.7390 	EXP 	image_2: autoDraw = True
+124.7550 	EXP 	text_2: autoDraw = False
+125.2066 	EXP 	New trial (rep=0, index=10): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '2nogo3.png'}
+125.2215 	DATA 	Keypress: space
+125.2398 	EXP 	text_2: autoDraw = False
+125.2398 	EXP 	image_2: autoDraw = False
+125.2398 	EXP 	image_2: image = '2nogo3.png'
+125.2398 	EXP 	text_2: autoDraw = True
+126.2260 	EXP 	image_2: autoDraw = True
+126.2423 	EXP 	text_2: autoDraw = False
+128.2309 	EXP 	image_2: autoDraw = False
+129.2190 	EXP 	New trial (rep=0, index=11): {'condition': 'salient', 'task': 'go', 'stim_file': '2gov2.png'}
+129.2502 	EXP 	text_2: autoDraw = False
+129.2502 	EXP 	image_2: autoDraw = False
+129.2502 	EXP 	image_2: image = '2gov2.png'
+129.2502 	EXP 	text_2: autoDraw = True
+130.2365 	EXP 	image_2: autoDraw = True
+130.2531 	EXP 	text_2: autoDraw = False
+130.8058 	EXP 	New trial (rep=0, index=12): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '2go3.png'}
+130.8222 	DATA 	Keypress: space
+130.8380 	EXP 	text_2: autoDraw = False
+130.8380 	EXP 	image_2: autoDraw = False
+130.8380 	EXP 	image_2: image = '2go3.png'
+130.8380 	EXP 	text_2: autoDraw = True
+131.8240 	EXP 	image_2: autoDraw = True
+131.8407 	EXP 	text_2: autoDraw = False
+132.2943 	EXP 	New trial (rep=0, index=13): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '2nogo.png'}
+132.3125 	DATA 	Keypress: space
+132.3256 	EXP 	text_2: autoDraw = False
+132.3256 	EXP 	image_2: autoDraw = False
+132.3256 	EXP 	image_2: image = '2nogo.png'
+132.3256 	EXP 	text_2: autoDraw = True
+133.2946 	EXP 	image_2: autoDraw = True
+133.3282 	EXP 	text_2: autoDraw = False
+135.2999 	EXP 	image_2: autoDraw = False
+136.2880 	EXP 	New trial (rep=0, index=14): {'condition': 'salient', 'task': 'nogo', 'stim_file': '2nogov2.png'}
+136.3193 	EXP 	text_2: autoDraw = False
+136.3193 	EXP 	image_2: autoDraw = False
+136.3193 	EXP 	image_2: image = '2nogov2.png'
+136.3193 	EXP 	text_2: autoDraw = True
+137.3054 	EXP 	image_2: autoDraw = True
+137.3220 	EXP 	text_2: autoDraw = False
+139.3108 	EXP 	image_2: autoDraw = False
+140.2987 	EXP 	New trial (rep=0, index=15): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '2go2.png'}
+140.3301 	EXP 	text_2: autoDraw = False
+140.3301 	EXP 	image_2: autoDraw = False
+140.3301 	EXP 	image_2: image = '2go2.png'
+140.3301 	EXP 	text_2: autoDraw = True
+141.2993 	EXP 	image_2: autoDraw = True
+141.3328 	EXP 	text_2: autoDraw = False
+141.7863 	EXP 	New trial (rep=0, index=16): {'condition': 'nonsalient', 'task': 'nogo', 'stim_file': '2nogo2.png'}
+141.8041 	DATA 	Keypress: space
+141.8174 	EXP 	text_2: autoDraw = False
+141.8174 	EXP 	image_2: autoDraw = False
+141.8174 	EXP 	image_2: image = '2nogo2.png'
+141.8174 	EXP 	text_2: autoDraw = True
+142.7866 	EXP 	image_2: autoDraw = True
+142.8201 	EXP 	text_2: autoDraw = False
+144.7920 	EXP 	image_2: autoDraw = False
+145.7801 	EXP 	New trial (rep=0, index=17): {'condition': 'salient', 'task': 'go', 'stim_file': '2gov1.png'}
+145.8115 	EXP 	text_2: autoDraw = False
+145.8115 	EXP 	image_2: autoDraw = False
+145.8115 	EXP 	image_2: image = '2gov1.png'
+145.8115 	EXP 	text_2: autoDraw = True
+146.7976 	EXP 	image_2: autoDraw = True
+146.8142 	EXP 	text_2: autoDraw = False
+147.2167 	EXP 	New trial (rep=0, index=18): {'condition': 'salient', 'task': 'go', 'stim_file': '2gov3.png'}
+147.2330 	DATA 	Keypress: space
+147.2487 	EXP 	text_2: autoDraw = False
+147.2487 	EXP 	image_2: autoDraw = False
+147.2487 	EXP 	image_2: image = '2gov3.png'
+147.2487 	EXP 	text_2: autoDraw = True
+148.2348 	EXP 	image_2: autoDraw = True
+148.2512 	EXP 	text_2: autoDraw = False
+148.6545 	EXP 	New trial (rep=0, index=19): {'condition': 'nonsalient', 'task': 'go', 'stim_file': '2go4.png'}
+148.6728 	DATA 	Keypress: space
+148.6858 	EXP 	text_2: autoDraw = False
+148.6858 	EXP 	image_2: autoDraw = False
+148.6858 	EXP 	image_2: image = '2go4.png'
+148.6858 	EXP 	text_2: autoDraw = True
+149.6552 	EXP 	image_2: autoDraw = True
+149.6884 	EXP 	text_2: autoDraw = False
+150.0767 	DATA 	Keypress: space
+150.0896 	EXP 	text_2: autoDraw = False
+150.0896 	EXP 	image_2: autoDraw = False
+150.0896 	EXP 	text_6: autoDraw = True
+205.4859 	EXP 	Imported yesno.xlsx as conditions, 40 conditions, 4 params
+205.4866 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+205.4869 	EXP 	New trial (rep=0, index=0): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': 'nonstc4.png'}
+205.5037 	DATA 	Keypress: space
+205.5210 	EXP 	text_6: autoDraw = False
+205.5210 	EXP 	image_3: image = 'nonstc4.png'
+205.5210 	EXP 	text_4: autoDraw = True
+206.5056 	EXP 	image_3: autoDraw = True
+206.5235 	EXP 	text_4: autoDraw = False
+208.5121 	EXP 	image_3: autoDraw = False
+208.5121 	EXP 	text_5: autoDraw = True
+211.2575 	DATA 	Keypress: right
+211.2736 	EXP 	New trial (rep=0, index=1): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': 'nonstc.png'}
+211.3030 	EXP 	text_4: autoDraw = False
+211.3030 	EXP 	image_3: autoDraw = False
+211.3030 	EXP 	text_5: autoDraw = False
+211.3030 	EXP 	image_3: image = 'nonstc.png'
+211.3030 	EXP 	text_4: autoDraw = True
+212.2890 	EXP 	image_3: autoDraw = True
+212.3056 	EXP 	text_4: autoDraw = False
+214.2778 	EXP 	text_5: autoDraw = True
+214.2943 	EXP 	image_3: autoDraw = False
+216.1855 	EXP 	New trial (rep=0, index=2): {'type': 'st', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': '1nogo2.png'}
+216.2034 	DATA 	Keypress: left
+216.2162 	EXP 	text_4: autoDraw = False
+216.2162 	EXP 	image_3: autoDraw = False
+216.2162 	EXP 	text_5: autoDraw = False
+216.2162 	EXP 	image_3: image = '1nogo2.png'
+216.2162 	EXP 	text_4: autoDraw = True
+217.1853 	EXP 	image_3: autoDraw = True
+217.2182 	EXP 	text_4: autoDraw = False
+219.1907 	EXP 	image_3: autoDraw = False
+219.1907 	EXP 	text_5: autoDraw = True
+219.7606 	EXP 	New trial (rep=0, index=3): {'type': 'st', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': '1go1.png'}
+219.7744 	DATA 	Keypress: left
+219.7923 	EXP 	text_4: autoDraw = False
+219.7923 	EXP 	image_3: autoDraw = False
+219.7923 	EXP 	text_5: autoDraw = False
+219.7923 	EXP 	image_3: image = '1go1.png'
+219.7923 	EXP 	text_4: autoDraw = True
+220.7782 	EXP 	image_3: autoDraw = True
+220.7950 	EXP 	text_4: autoDraw = False
+222.7837 	EXP 	image_3: autoDraw = False
+222.7837 	EXP 	text_5: autoDraw = True
+223.2210 	EXP 	New trial (rep=0, index=4): {'type': 'st', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': '1nogo3.png'}
+223.2411 	DATA 	Keypress: left
+223.2516 	EXP 	text_4: autoDraw = False
+223.2516 	EXP 	image_3: autoDraw = False
+223.2516 	EXP 	text_5: autoDraw = False
+223.2516 	EXP 	image_3: image = '1nogo3.png'
+223.2516 	EXP 	text_4: autoDraw = True
+224.2207 	EXP 	image_3: autoDraw = True
+224.2544 	EXP 	text_4: autoDraw = False
+226.2261 	EXP 	image_3: autoDraw = False
+226.2261 	EXP 	text_5: autoDraw = True
+226.5297 	EXP 	New trial (rep=0, index=5): {'type': 'nonst', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': 'nonstrv4.png'}
+226.5499 	DATA 	Keypress: right
+226.5593 	EXP 	text_4: autoDraw = False
+226.5593 	EXP 	image_3: autoDraw = False
+226.5593 	EXP 	text_5: autoDraw = False
+226.5593 	EXP 	image_3: image = 'nonstrv4.png'
+226.5593 	EXP 	text_4: autoDraw = True
+227.5463 	EXP 	image_3: autoDraw = True
+227.5632 	EXP 	text_4: autoDraw = False
+229.5349 	EXP 	text_5: autoDraw = True
+229.5517 	EXP 	image_3: autoDraw = False
+230.6088 	DATA 	Keypress: right
+230.6239 	EXP 	New trial (rep=0, index=6): {'type': 'st', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': '1gov.png'}
+230.6535 	EXP 	text_4: autoDraw = False
+230.6535 	EXP 	image_3: autoDraw = False
+230.6535 	EXP 	text_5: autoDraw = False
+230.6535 	EXP 	image_3: image = '1gov.png'
+230.6535 	EXP 	text_4: autoDraw = True
+231.6407 	EXP 	image_3: autoDraw = True
+231.6575 	EXP 	text_4: autoDraw = False
+233.6292 	EXP 	text_5: autoDraw = True
+233.6461 	EXP 	image_3: autoDraw = False
+234.0851 	DATA 	Keypress: right
+234.1000 	EXP 	New trial (rep=0, index=7): {'type': 'nonst', 'condition': 'salient', 'shape': 'circle', 'stim_file': 'nonstcv1.png'}
+234.1306 	EXP 	text_4: autoDraw = False
+234.1306 	EXP 	image_3: autoDraw = False
+234.1306 	EXP 	text_5: autoDraw = False
+234.1306 	EXP 	image_3: image = 'nonstcv1.png'
+234.1306 	EXP 	text_4: autoDraw = True
+235.1164 	EXP 	image_3: autoDraw = True
+235.1333 	EXP 	text_4: autoDraw = False
+237.1052 	EXP 	text_5: autoDraw = True
+237.1222 	EXP 	image_3: autoDraw = False
+237.5272 	DATA 	Keypress: left
+237.5426 	EXP 	New trial (rep=0, index=8): {'type': 'nonst', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': 'nonstrv3.png'}
+237.5731 	EXP 	text_4: autoDraw = False
+237.5731 	EXP 	image_3: autoDraw = False
+237.5731 	EXP 	text_5: autoDraw = False
+237.5731 	EXP 	image_3: image = 'nonstrv3.png'
+237.5731 	EXP 	text_4: autoDraw = True
+238.5425 	EXP 	image_3: autoDraw = True
+238.5758 	EXP 	text_4: autoDraw = False
+240.5478 	EXP 	image_3: autoDraw = False
+240.5478 	EXP 	text_5: autoDraw = True
+240.9162 	EXP 	New trial (rep=0, index=9): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': 'nonstc3.png'}
+240.9310 	DATA 	Keypress: right
+240.9489 	EXP 	text_4: autoDraw = False
+240.9489 	EXP 	image_3: autoDraw = False
+240.9489 	EXP 	text_5: autoDraw = False
+240.9489 	EXP 	image_3: image = 'nonstc3.png'
+240.9489 	EXP 	text_4: autoDraw = True
+241.9337 	EXP 	image_3: autoDraw = True
+241.9505 	EXP 	text_4: autoDraw = False
+243.9400 	EXP 	image_3: autoDraw = False
+243.9400 	EXP 	text_5: autoDraw = True
+244.4122 	DATA 	Keypress: right
+244.4276 	EXP 	New trial (rep=0, index=10): {'type': 'nonst', 'condition': 'salient', 'shape': 'circle', 'stim_file': 'nonstcv3.png'}
+244.4584 	EXP 	text_4: autoDraw = False
+244.4584 	EXP 	image_3: autoDraw = False
+244.4584 	EXP 	text_5: autoDraw = False
+244.4584 	EXP 	image_3: image = 'nonstcv3.png'
+244.4584 	EXP 	text_4: autoDraw = True
+245.4274 	EXP 	image_3: autoDraw = True
+245.4611 	EXP 	text_4: autoDraw = False
+247.4329 	EXP 	image_3: autoDraw = False
+247.4329 	EXP 	text_5: autoDraw = True
+247.7195 	EXP 	New trial (rep=0, index=11): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': 'nonstr2.png'}
+247.7341 	DATA 	Keypress: left
+247.7503 	EXP 	text_4: autoDraw = False
+247.7503 	EXP 	image_3: autoDraw = False
+247.7503 	EXP 	text_5: autoDraw = False
+247.7503 	EXP 	image_3: image = 'nonstr2.png'
+247.7503 	EXP 	text_4: autoDraw = True
+248.7357 	EXP 	image_3: autoDraw = True
+248.7530 	EXP 	text_4: autoDraw = False
+250.7416 	EXP 	image_3: autoDraw = False
+250.7416 	EXP 	text_5: autoDraw = True
+251.1455 	EXP 	New trial (rep=0, index=12): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': 'nonstr1.png'}
+251.1634 	DATA 	Keypress: right
+251.1761 	EXP 	text_4: autoDraw = False
+251.1761 	EXP 	image_3: autoDraw = False
+251.1761 	EXP 	text_5: autoDraw = False
+251.1761 	EXP 	image_3: image = 'nonstr1.png'
+251.1761 	EXP 	text_4: autoDraw = True
+252.1453 	EXP 	image_3: autoDraw = True
+252.1788 	EXP 	text_4: autoDraw = False
+254.1507 	EXP 	image_3: autoDraw = False
+254.1507 	EXP 	text_5: autoDraw = True
+254.7886 	EXP 	New trial (rep=0, index=13): {'type': 'st', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': '1gov4.png'}
+254.8048 	DATA 	Keypress: left
+254.8192 	EXP 	text_4: autoDraw = False
+254.8192 	EXP 	image_3: autoDraw = False
+254.8192 	EXP 	text_5: autoDraw = False
+254.8192 	EXP 	image_3: image = '1gov4.png'
+254.8192 	EXP 	text_4: autoDraw = True
+255.8052 	EXP 	image_3: autoDraw = True
+255.8221 	EXP 	text_4: autoDraw = False
+257.8106 	EXP 	image_3: autoDraw = False
+257.8106 	EXP 	text_5: autoDraw = True
+258.2125 	EXP 	New trial (rep=0, index=14): {'type': 'nonst', 'condition': 'salient', 'shape': 'circle', 'stim_file': 'nonstcv4.png'}
+258.2273 	DATA 	Keypress: left
+258.2451 	EXP 	text_4: autoDraw = False
+258.2451 	EXP 	image_3: autoDraw = False
+258.2451 	EXP 	text_5: autoDraw = False
+258.2451 	EXP 	image_3: image = 'nonstcv4.png'
+258.2451 	EXP 	text_4: autoDraw = True
+259.2311 	EXP 	image_3: autoDraw = True
+259.2476 	EXP 	text_4: autoDraw = False
+261.2366 	EXP 	image_3: autoDraw = False
+261.2366 	EXP 	text_5: autoDraw = True
+261.6233 	EXP 	New trial (rep=0, index=15): {'type': 'st', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': '1gov2.png'}
+261.6396 	DATA 	Keypress: left
+261.6542 	EXP 	text_4: autoDraw = False
+261.6542 	EXP 	image_3: autoDraw = False
+261.6542 	EXP 	text_5: autoDraw = False
+261.6542 	EXP 	image_3: image = '1gov2.png'
+261.6542 	EXP 	text_4: autoDraw = True
+262.6401 	EXP 	image_3: autoDraw = True
+262.6567 	EXP 	text_4: autoDraw = False
+264.6455 	EXP 	image_3: autoDraw = False
+264.6455 	EXP 	text_5: autoDraw = True
+265.0974 	EXP 	New trial (rep=0, index=16): {'type': 'st', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': '1nogo4.png'}
+265.1116 	DATA 	Keypress: right
+265.1302 	EXP 	text_4: autoDraw = False
+265.1302 	EXP 	image_3: autoDraw = False
+265.1302 	EXP 	text_5: autoDraw = False
+265.1302 	EXP 	image_3: image = '1nogo4.png'
+265.1302 	EXP 	text_4: autoDraw = True
+266.1160 	EXP 	image_3: autoDraw = True
+266.1328 	EXP 	text_4: autoDraw = False
+268.1047 	EXP 	text_5: autoDraw = True
+268.1214 	EXP 	image_3: autoDraw = False
+268.6903 	EXP 	New trial (rep=0, index=17): {'type': 'st', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': '1nogo1.png'}
+268.7047 	DATA 	Keypress: right
+268.7229 	EXP 	text_4: autoDraw = False
+268.7229 	EXP 	image_3: autoDraw = False
+268.7229 	EXP 	text_5: autoDraw = False
+268.7229 	EXP 	image_3: image = '1nogo1.png'
+268.7229 	EXP 	text_4: autoDraw = True
+269.7090 	EXP 	image_3: autoDraw = True
+269.7258 	EXP 	text_4: autoDraw = False
+271.6977 	EXP 	text_5: autoDraw = True
+271.7143 	EXP 	image_3: autoDraw = False
+272.1340 	EXP 	New trial (rep=0, index=18): {'type': 'nonst', 'condition': 'salient', 'shape': 'circle', 'stim_file': 'nonstcv2.png'}
+272.1483 	DATA 	Keypress: right
+272.1658 	EXP 	text_4: autoDraw = False
+272.1658 	EXP 	image_3: autoDraw = False
+272.1658 	EXP 	text_5: autoDraw = False
+272.1658 	EXP 	image_3: image = 'nonstcv2.png'
+272.1658 	EXP 	text_4: autoDraw = True
+273.1515 	EXP 	image_3: autoDraw = True
+273.1682 	EXP 	text_4: autoDraw = False
+275.1568 	EXP 	image_3: autoDraw = False
+275.1568 	EXP 	text_5: autoDraw = True
+275.6442 	EXP 	New trial (rep=0, index=19): {'type': 'st', 'condition': 'salient', 'shape': 'circle', 'stim_file': '1nogov.png'}
+275.6642 	DATA 	Keypress: right
+275.6749 	EXP 	text_4: autoDraw = False
+275.6749 	EXP 	image_3: autoDraw = False
+275.6749 	EXP 	text_5: autoDraw = False
+275.6749 	EXP 	image_3: image = '1nogov.png'
+275.6749 	EXP 	text_4: autoDraw = True
+276.6610 	EXP 	image_3: autoDraw = True
+276.6778 	EXP 	text_4: autoDraw = False
+278.6498 	EXP 	text_5: autoDraw = True
+278.6662 	EXP 	image_3: autoDraw = False
+278.9518 	EXP 	New trial (rep=0, index=20): {'type': 'st', 'condition': 'salient', 'shape': 'circle', 'stim_file': '1nogov2.png'}
+278.9669 	DATA 	Keypress: left
+278.9837 	EXP 	text_4: autoDraw = False
+278.9837 	EXP 	image_3: autoDraw = False
+278.9837 	EXP 	text_5: autoDraw = False
+278.9837 	EXP 	image_3: image = '1nogov2.png'
+278.9837 	EXP 	text_4: autoDraw = True
+279.9698 	EXP 	image_3: autoDraw = True
+279.9862 	EXP 	text_4: autoDraw = False
+281.9753 	EXP 	image_3: autoDraw = False
+281.9753 	EXP 	text_5: autoDraw = True
+282.4448 	EXP 	New trial (rep=0, index=21): {'type': 'nonst', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': 'nonstrv.png'}
+282.4602 	DATA 	Keypress: right
+282.4765 	EXP 	text_4: autoDraw = False
+282.4765 	EXP 	image_3: autoDraw = False
+282.4765 	EXP 	text_5: autoDraw = False
+282.4765 	EXP 	image_3: image = 'nonstrv.png'
+282.4765 	EXP 	text_4: autoDraw = True
+283.4623 	EXP 	image_3: autoDraw = True
+283.4792 	EXP 	text_4: autoDraw = False
+285.4680 	EXP 	image_3: autoDraw = False
+285.4680 	EXP 	text_5: autoDraw = True
+285.9214 	EXP 	New trial (rep=0, index=22): {'type': 'nonst', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': 'nonstrv1.png'}
+285.9377 	DATA 	Keypress: left
+285.9523 	EXP 	text_4: autoDraw = False
+285.9523 	EXP 	image_3: autoDraw = False
+285.9523 	EXP 	text_5: autoDraw = False
+285.9523 	EXP 	image_3: image = 'nonstrv1.png'
+285.9523 	EXP 	text_4: autoDraw = True
+286.9383 	EXP 	image_3: autoDraw = True
+286.9552 	EXP 	text_4: autoDraw = False
+288.9437 	EXP 	image_3: autoDraw = False
+288.9437 	EXP 	text_5: autoDraw = True
+289.3786 	EXP 	New trial (rep=0, index=23): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': 'nonstr.png'}
+289.3923 	DATA 	Keypress: right
+289.4117 	EXP 	text_4: autoDraw = False
+289.4117 	EXP 	image_3: autoDraw = False
+289.4117 	EXP 	text_5: autoDraw = False
+289.4117 	EXP 	image_3: image = 'nonstr.png'
+289.4117 	EXP 	text_4: autoDraw = True
+290.3976 	EXP 	image_3: autoDraw = True
+290.4144 	EXP 	text_4: autoDraw = False
+292.3857 	EXP 	text_5: autoDraw = True
+292.4029 	EXP 	image_3: autoDraw = False
+293.4736 	EXP 	New trial (rep=0, index=24): {'type': 'st', 'condition': 'salient', 'shape': 'circle', 'stim_file': '1nogov3.png'}
+293.4878 	DATA 	Keypress: left
+293.5060 	EXP 	text_4: autoDraw = False
+293.5060 	EXP 	image_3: autoDraw = False
+293.5060 	EXP 	text_5: autoDraw = False
+293.5060 	EXP 	image_3: image = '1nogov3.png'
+293.5060 	EXP 	text_4: autoDraw = True
+294.4918 	EXP 	image_3: autoDraw = True
+294.5085 	EXP 	text_4: autoDraw = False
+296.4973 	EXP 	image_3: autoDraw = False
+296.4973 	EXP 	text_5: autoDraw = True
+296.9659 	EXP 	New trial (rep=0, index=25): {'type': 'st', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': '1go2.png'}
+296.9799 	DATA 	Keypress: left
+296.9987 	EXP 	text_4: autoDraw = False
+296.9987 	EXP 	image_3: autoDraw = False
+296.9987 	EXP 	text_5: autoDraw = False
+296.9987 	EXP 	image_3: image = '1go2.png'
+296.9987 	EXP 	text_4: autoDraw = True
+297.9847 	EXP 	image_3: autoDraw = True
+298.0012 	EXP 	text_4: autoDraw = False
+299.9732 	EXP 	text_5: autoDraw = True
+299.9898 	EXP 	image_3: autoDraw = False
+300.3284 	DATA 	Keypress: right
+300.3437 	EXP 	New trial (rep=0, index=26): {'type': 'st', 'condition': 'salient', 'shape': 'circle', 'stim_file': '1nogov4.png'}
+300.3743 	EXP 	text_4: autoDraw = False
+300.3743 	EXP 	image_3: autoDraw = False
+300.3743 	EXP 	text_5: autoDraw = False
+300.3743 	EXP 	image_3: image = '1nogov4.png'
+300.3743 	EXP 	text_4: autoDraw = True
+301.3604 	EXP 	image_3: autoDraw = True
+301.3771 	EXP 	text_4: autoDraw = False
+303.3488 	EXP 	text_5: autoDraw = True
+303.3656 	EXP 	image_3: autoDraw = False
+303.7709 	DATA 	Keypress: right
+303.7861 	EXP 	New trial (rep=0, index=27): {'type': 'st', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': '1go3.png'}
+303.8169 	EXP 	text_4: autoDraw = False
+303.8169 	EXP 	image_3: autoDraw = False
+303.8169 	EXP 	text_5: autoDraw = False
+303.8169 	EXP 	image_3: image = '1go3.png'
+303.8169 	EXP 	text_4: autoDraw = True
+304.8026 	EXP 	image_3: autoDraw = True
+304.8195 	EXP 	text_4: autoDraw = False
+306.7913 	EXP 	text_5: autoDraw = True
+306.8080 	EXP 	image_3: autoDraw = False
+307.1972 	DATA 	Keypress: right
+307.2118 	EXP 	New trial (rep=0, index=28): {'type': 'st', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': '1gov1.png'}
+307.2426 	EXP 	text_4: autoDraw = False
+307.2426 	EXP 	image_3: autoDraw = False
+307.2426 	EXP 	text_5: autoDraw = False
+307.2426 	EXP 	image_3: image = '1gov1.png'
+307.2426 	EXP 	text_4: autoDraw = True
+308.2285 	EXP 	image_3: autoDraw = True
+308.2452 	EXP 	text_4: autoDraw = False
+310.2172 	EXP 	text_5: autoDraw = True
+310.2339 	EXP 	image_3: autoDraw = False
+310.5852 	EXP 	New trial (rep=0, index=29): {'type': 'st', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': '1go.png'}
+310.5989 	DATA 	Keypress: left
+310.6183 	EXP 	text_4: autoDraw = False
+310.6183 	EXP 	image_3: autoDraw = False
+310.6183 	EXP 	text_5: autoDraw = False
+310.6183 	EXP 	image_3: image = '1go.png'
+310.6183 	EXP 	text_4: autoDraw = True
+311.6042 	EXP 	image_3: autoDraw = True
+311.6210 	EXP 	text_4: autoDraw = False
+313.5925 	EXP 	text_5: autoDraw = True
+313.6096 	EXP 	image_3: autoDraw = False
+314.0636 	EXP 	New trial (rep=0, index=30): {'type': 'nonst', 'condition': 'salient', 'shape': 'circle', 'stim_file': 'nonstcv.png'}
+314.0832 	DATA 	Keypress: right
+314.0942 	EXP 	text_4: autoDraw = False
+314.0942 	EXP 	image_3: autoDraw = False
+314.0942 	EXP 	text_5: autoDraw = False
+314.0942 	EXP 	image_3: image = 'nonstcv.png'
+314.0942 	EXP 	text_4: autoDraw = True
+315.0800 	EXP 	image_3: autoDraw = True
+315.0965 	EXP 	text_4: autoDraw = False
+317.0689 	EXP 	text_5: autoDraw = True
+317.0854 	EXP 	image_3: autoDraw = False
+317.4725 	EXP 	New trial (rep=0, index=31): {'type': 'st', 'condition': 'salient', 'shape': 'circle', 'stim_file': '1nogov1.png'}
+317.4901 	DATA 	Keypress: left
+317.5034 	EXP 	text_4: autoDraw = False
+317.5034 	EXP 	image_3: autoDraw = False
+317.5034 	EXP 	text_5: autoDraw = False
+317.5034 	EXP 	image_3: image = '1nogov1.png'
+317.5034 	EXP 	text_4: autoDraw = True
+318.4725 	EXP 	image_3: autoDraw = True
+318.5061 	EXP 	text_4: autoDraw = False
+320.4780 	EXP 	image_3: autoDraw = False
+320.4780 	EXP 	text_5: autoDraw = True
+320.8317 	EXP 	New trial (rep=0, index=32): {'type': 'st', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': '1gov3.png'}
+320.8499 	DATA 	Keypress: left
+320.8624 	EXP 	text_4: autoDraw = False
+320.8624 	EXP 	image_3: autoDraw = False
+320.8624 	EXP 	text_5: autoDraw = False
+320.8624 	EXP 	image_3: image = '1gov3.png'
+320.8624 	EXP 	text_4: autoDraw = True
+321.8315 	EXP 	image_3: autoDraw = True
+321.8647 	EXP 	text_4: autoDraw = False
+323.8366 	EXP 	image_3: autoDraw = False
+323.8366 	EXP 	text_5: autoDraw = True
+324.2065 	EXP 	New trial (rep=0, index=33): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': 'nonstc1.png'}
+324.2213 	DATA 	Keypress: left
+324.2380 	EXP 	text_4: autoDraw = False
+324.2380 	EXP 	image_3: autoDraw = False
+324.2380 	EXP 	text_5: autoDraw = False
+324.2380 	EXP 	image_3: image = 'nonstc1.png'
+324.2380 	EXP 	text_4: autoDraw = True
+325.2240 	EXP 	image_3: autoDraw = True
+325.2406 	EXP 	text_4: autoDraw = False
+327.2289 	EXP 	image_3: autoDraw = False
+327.2289 	EXP 	text_5: autoDraw = True
+327.8997 	EXP 	New trial (rep=0, index=34): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': 'nonstr3.png'}
+327.9154 	DATA 	Keypress: left
+327.9312 	EXP 	text_4: autoDraw = False
+327.9312 	EXP 	image_3: autoDraw = False
+327.9312 	EXP 	text_5: autoDraw = False
+327.9312 	EXP 	image_3: image = 'nonstr3.png'
+327.9312 	EXP 	text_4: autoDraw = True
+328.9172 	EXP 	image_3: autoDraw = True
+328.9339 	EXP 	text_4: autoDraw = False
+330.9226 	EXP 	image_3: autoDraw = False
+330.9226 	EXP 	text_5: autoDraw = True
+331.2912 	EXP 	New trial (rep=0, index=35): {'type': 'st', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': '1go4.png'}
+331.3053 	DATA 	Keypress: right
+331.3236 	EXP 	text_4: autoDraw = False
+331.3236 	EXP 	image_3: autoDraw = False
+331.3236 	EXP 	text_5: autoDraw = False
+331.3236 	EXP 	image_3: image = '1go4.png'
+331.3236 	EXP 	text_4: autoDraw = True
+332.3095 	EXP 	image_3: autoDraw = True
+332.3263 	EXP 	text_4: autoDraw = False
+334.2982 	EXP 	text_5: autoDraw = True
+334.3150 	EXP 	image_3: autoDraw = False
+334.6536 	DATA 	Keypress: left
+334.6684 	EXP 	New trial (rep=0, index=36): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': 'nonstc2.png'}
+334.6993 	EXP 	text_4: autoDraw = False
+334.6993 	EXP 	image_3: autoDraw = False
+334.6993 	EXP 	text_5: autoDraw = False
+334.6993 	EXP 	image_3: image = 'nonstc2.png'
+334.6993 	EXP 	text_4: autoDraw = True
+335.6687 	EXP 	image_3: autoDraw = True
+335.7019 	EXP 	text_4: autoDraw = False
+337.6738 	EXP 	image_3: autoDraw = False
+337.6738 	EXP 	text_5: autoDraw = True
+338.0787 	DATA 	Keypress: left
+338.0948 	EXP 	New trial (rep=0, index=37): {'type': 'nonst', 'condition': 'nonsalient', 'shape': 'rectangle', 'stim_file': 'nonstr4.png'}
+338.1247 	EXP 	text_4: autoDraw = False
+338.1247 	EXP 	image_3: autoDraw = False
+338.1247 	EXP 	text_5: autoDraw = False
+338.1247 	EXP 	image_3: image = 'nonstr4.png'
+338.1247 	EXP 	text_4: autoDraw = True
+339.0943 	EXP 	image_3: autoDraw = True
+339.1278 	EXP 	text_4: autoDraw = False
+341.0998 	EXP 	image_3: autoDraw = False
+341.0998 	EXP 	text_5: autoDraw = True
+341.7188 	EXP 	New trial (rep=0, index=38): {'type': 'nonst', 'condition': 'salient', 'shape': 'rectangle', 'stim_file': 'nonstrv2.png'}
+341.7330 	DATA 	Keypress: left
+341.7514 	EXP 	text_4: autoDraw = False
+341.7514 	EXP 	image_3: autoDraw = False
+341.7514 	EXP 	text_5: autoDraw = False
+341.7514 	EXP 	image_3: image = 'nonstrv2.png'
+341.7514 	EXP 	text_4: autoDraw = True
+342.7370 	EXP 	image_3: autoDraw = True
+342.7540 	EXP 	text_4: autoDraw = False
+344.7260 	EXP 	text_5: autoDraw = True
+344.7428 	EXP 	image_3: autoDraw = False
+345.5798 	EXP 	New trial (rep=0, index=39): {'type': 'st', 'condition': 'nonsalient', 'shape': 'circle', 'stim_file': '1nogo.png'}
+345.5943 	DATA 	Keypress: right
+345.6118 	EXP 	text_4: autoDraw = False
+345.6118 	EXP 	image_3: autoDraw = False
+345.6118 	EXP 	text_5: autoDraw = False
+345.6118 	EXP 	image_3: image = '1nogo.png'
+345.6118 	EXP 	text_4: autoDraw = True
+346.5966 	EXP 	image_3: autoDraw = True
+346.6137 	EXP 	text_4: autoDraw = False
+348.6031 	EXP 	image_3: autoDraw = False
+348.6031 	EXP 	text_5: autoDraw = True
+349.3249 	DATA 	Keypress: left
+349.3385 	EXP 	text_4: autoDraw = False
+349.3385 	EXP 	image_3: autoDraw = False
+349.3385 	EXP 	text_5: autoDraw = False
+349.6503 	EXP 	window1: mouseVisible = True
