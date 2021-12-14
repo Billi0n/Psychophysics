@@ -1,0 +1,855 @@
+task   condition response        RT
+3    go     salient    space  0.731628
+8    go  nonsalient    space  0.704608
+9    go  nonsalient    space  0.639794
+10   go     salient    space  0.538183
+13   go     salient    space  0.759737
+14   go  nonsalient    space  0.616401
+16   go  nonsalient    space  0.700788
+17   go     salient    space  0.508285
+18   go  nonsalient    space  0.487942
+20   go     salient    space  0.728413
+task   condition response        RT
+24   go  nonsalient    space  0.578551
+25   go  nonsalient    space  0.508387
+26   go     salient    space  0.571823
+27   go     salient    space  0.500755
+28   go  nonsalient    space  0.468599
+29   go  nonsalient    space  0.368387
+30   go     salient    space  0.407841
+33   go  nonsalient    space  0.629945
+34   go     salient    space  0.562302
+41   go     salient    space  0.625379
+task   condition response        RT
+1    go  nonsalient    space  0.415910
+2    go  nonsalient    space  0.383345
+5    go  nonsalient    space  0.437726
+6    go     salient    space  0.380018
+8    go  nonsalient    space  0.383676
+11   go  nonsalient    space  0.410253
+12   go     salient    space  1.025472
+17   go     salient    space  0.412531
+18   go     salient    space  0.349690
+20   go     salient    space  0.434731
+task   condition response        RT
+23   go     salient    space  0.389979
+25   go  nonsalient    space  0.380540
+26   go     salient    space  0.366026
+28   go     salient    space  0.425386
+31   go  nonsalient    space  0.363486
+33   go     salient    space  0.412742
+35   go  nonsalient    space  0.409532
+36   go  nonsalient    space  0.373697
+39   go  nonsalient    space  0.379249
+41   go     salient    space  0.445554
+task   condition response        RT
+4    go     salient    space  0.597138
+5    go  nonsalient    space  0.524860
+7    go  nonsalient    space  0.569169
+8    go     salient    space  0.595306
+13   go     salient    space  0.490295
+14   go     salient    space  0.556696
+15   go  nonsalient    space  0.544907
+17   go  nonsalient    space  0.516320
+18   go  nonsalient    space  0.592193
+20   go     salient    space  0.452631
+task   condition response        RT
+25   go     salient    space  0.513449
+28   go     salient    space  0.551386
+29   go  nonsalient    space  0.451307
+31   go  nonsalient    space  0.462215
+33   go     salient    space  0.565118
+34   go  nonsalient    space  0.451351
+37   go  nonsalient    space  0.470612
+39   go     salient    space  0.409757
+40   go     salient    space  0.416457
+41   go  nonsalient    space  0.414915
+task   condition response        RT
+4    go  nonsalient    space  0.665622
+8    go  nonsalient    space  0.681501
+9    go  nonsalient    space  0.683402
+10   go  nonsalient    space  0.425588
+13   go     salient    space  0.589813
+14   go     salient    space  0.488151
+17   go     salient    space  0.519590
+18   go     salient    space  0.453601
+19   go     salient    space  0.709705
+20   go  nonsalient    space  0.622067
+task   condition response        RT
+27   go  nonsalient    space  0.501521
+28   go  nonsalient    space  0.440822
+30   go     salient    space  0.404668
+31   go  nonsalient    space  0.447180
+32   go     salient    space  0.414337
+33   go  nonsalient    space  0.390712
+35   go  nonsalient    space  0.496785
+37   go     salient    space  0.540462
+38   go     salient    space  0.413180
+39   go     salient    space  0.419541
+task   condition response        RT
+1    go     salient    space  0.734263
+2    go  nonsalient    space  0.609357
+5    go     salient    space  0.383070
+6    go     salient    space  0.373583
+7    go  nonsalient    space  0.442749
+8    go  nonsalient    space  0.372978
+10   go     salient    space  0.351331
+13   go  nonsalient    space  0.359705
+14   go     salient    space  0.326366
+17   go  nonsalient    space  0.404646
+task   condition response        RT
+23   go     salient    space  0.379271
+24   go  nonsalient    space  0.354120
+25   go     salient    space  0.328018
+27   go  nonsalient    space  0.356309
+30   go     salient    space  0.370306
+31   go  nonsalient    space  0.359748
+33   go  nonsalient    space  0.356694
+35   go     salient    space  0.346551
+36   go     salient    space  0.347873
+41   go  nonsalient    space  0.389136
+task   condition response        RT
+1    go  nonsalient    space  0.681277
+3    go  nonsalient    space  0.442672
+8    go     salient    space  0.489472
+9    go     salient    space  0.488934
+11   go  nonsalient    space  0.415456
+13   go     salient    space  0.398734
+14   go     salient    space  0.381503
+15   go  nonsalient    space  0.373704
+17   go  nonsalient    space  0.426666
+20   go     salient    space  0.401664
+task   condition response        RT
+24   go  nonsalient    space  0.492783
+26   go  nonsalient    space  0.690643
+28   go  nonsalient    space  0.531602
+29   go     salient    space  0.706811
+31   go     salient    space  0.446968
+32   go  nonsalient    space  0.501559
+34   go     salient    space  0.435002
+36   go  nonsalient    space  0.363341
+39   go     salient    space  0.424703
+41   go     salient    space  0.313139
+task   condition response        RT
+5    go  nonsalient    space  0.565211
+7    go     salient    space  1.294165
+8    go  nonsalient    space  0.689170
+10   go     salient    space  0.679726
+11   go  nonsalient    space  0.519217
+13   go     salient    space  0.478646
+16   go     salient    space  0.404739
+17   go  nonsalient    space  0.568345
+18   go  nonsalient    space  0.505878
+19   go     salient    space  0.523014
+task   condition response        RT
+23   go  nonsalient    space  0.518825
+25   go  nonsalient    space  0.447360
+27   go  nonsalient    space  0.429995
+29   go  nonsalient    space  0.616511
+30   go  nonsalient    space  0.629440
+32   go     salient    space  0.482252
+34   go     salient    space  0.634966
+35   go     salient    space  0.758507
+37   go     salient    space  0.526718
+39   go     salient    space  0.567384
+task   condition response        RT
+1    go  nonsalient    space  1.480917
+3    go     salient    space  0.567177
+5    go  nonsalient    space  0.492253
+7    go  nonsalient    space  0.493201
+10   go  nonsalient    space  0.514278
+11   go  nonsalient    space  0.454331
+12   go     salient    space  0.452614
+13   go     salient    space  0.389932
+15   go     salient    space  0.398212
+17   go     salient    space  0.513014
+task   condition response        RT
+22   go  nonsalient    space  0.430509
+24   go     salient    space  0.474813
+26   go     salient    space  0.445806
+27   go  nonsalient    space  0.532764
+29   go     salient    space  0.504922
+30   go  nonsalient    space  0.374806
+31   go     salient    space  0.401984
+38   go  nonsalient    space  0.436980
+40   go     salient    space  0.475918
+41   go  nonsalient    space  0.354884
+participant   mean RT stimulus_type      shape
+0          P-1  0.653249       salient  rectangle
+1          P-1  0.629906    nonsalient  rectangle
+2          P-1  0.533620       salient     circle
+3          P-1  0.510774    nonsalient     circle
+4          P-2  0.520488       salient  rectangle
+5          P-2  0.406182    nonsalient  rectangle
+6          P-2  0.407937       salient     circle
+7          P-2  0.381301    nonsalient     circle
+8          P-3  0.538413       salient  rectangle
+9          P-3  0.549490    nonsalient  rectangle
+10         P-3  0.491234       salient     circle
+11         P-3  0.450080    nonsalient     circle
+12         P-4  0.552172       salient  rectangle
+13         P-4  0.615636    nonsalient  rectangle
+14         P-4  0.438438       salient     circle
+15         P-4  0.455404    nonsalient     circle
+16         P-5  0.433723       salient  rectangle
+17         P-5  0.437887    nonsalient  rectangle
+18         P-5  0.354404       salient     circle
+19         P-5  0.363202    nonsalient     circle
+20         P-6  0.432062       salient  rectangle
+21         P-6  0.467955    nonsalient  rectangle
+22         P-6  0.465325       salient     circle
+23         P-6  0.515985    nonsalient     circle
+24         P-7  0.676058       salient  rectangle
+25         P-7  0.569564    nonsalient  rectangle
+26         P-7  0.593965       salient     circle
+27         P-7  0.528426    nonsalient     circle
+28         P-8  0.464190       salient  rectangle
+29         P-8  0.686996    nonsalient  rectangle
+30         P-8  0.460689       salient     circle
+31         P-8  0.425989    nonsalient     circle
+Salient rectangle mean RT 0.464189694984816
+Non-salient rectangle mean 0.6869963597739115
+Salient circle mean RT 0.4606887412257492
+Non-salient circle mean 0.4259886142099276
+                  Anova
+================================================
+                 F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type        0.0039 1.0000 7.0000 0.9522
+shape               15.3072 1.0000 7.0000 0.0058
+stimulus_type:shape  0.5006 1.0000 7.0000 0.5021
+================================================
+
+OUTLIERS REMOVED:
+
+task   condition response        RT
+3    go     salient    space  0.731628
+8    go  nonsalient    space  0.704608
+9    go  nonsalient    space  0.639794
+10   go     salient    space  0.538183
+13   go     salient    space  0.759737
+14   go  nonsalient    space  0.616401
+16   go  nonsalient    space  0.700788
+17   go     salient    space  0.508285
+18   go  nonsalient    space  0.487942
+20   go     salient    space  0.728413
+task   condition response        RT
+24   go  nonsalient    space  0.578551
+25   go  nonsalient    space  0.508387
+26   go     salient    space  0.571823
+27   go     salient    space  0.500755
+28   go  nonsalient    space  0.468599
+29   go  nonsalient    space  0.368387
+30   go     salient    space  0.407841
+33   go  nonsalient    space  0.629945
+34   go     salient    space  0.562302
+41   go     salient    space  0.625379
+task   condition response        RT
+1    go  nonsalient    space  0.415910
+2    go  nonsalient    space  0.383345
+5    go  nonsalient    space  0.437726
+6    go     salient    space  0.380018
+8    go  nonsalient    space  0.383676
+11   go  nonsalient    space  0.410253
+17   go     salient    space  0.412531
+18   go     salient    space  0.349690
+20   go     salient    space  0.434731
+task   condition response        RT
+23   go     salient    space  0.389979
+25   go  nonsalient    space  0.380540
+26   go     salient    space  0.366026
+28   go     salient    space  0.425386
+31   go  nonsalient    space  0.363486
+33   go     salient    space  0.412742
+35   go  nonsalient    space  0.409532
+36   go  nonsalient    space  0.373697
+39   go  nonsalient    space  0.379249
+41   go     salient    space  0.445554
+task   condition response        RT
+4    go     salient    space  0.597138
+5    go  nonsalient    space  0.524860
+7    go  nonsalient    space  0.569169
+8    go     salient    space  0.595306
+13   go     salient    space  0.490295
+14   go     salient    space  0.556696
+15   go  nonsalient    space  0.544907
+17   go  nonsalient    space  0.516320
+18   go  nonsalient    space  0.592193
+20   go     salient    space  0.452631
+task   condition response        RT
+25   go     salient    space  0.513449
+28   go     salient    space  0.551386
+29   go  nonsalient    space  0.451307
+31   go  nonsalient    space  0.462215
+33   go     salient    space  0.565118
+34   go  nonsalient    space  0.451351
+37   go  nonsalient    space  0.470612
+39   go     salient    space  0.409757
+40   go     salient    space  0.416457
+41   go  nonsalient    space  0.414915
+task   condition response        RT
+4    go  nonsalient    space  0.665622
+8    go  nonsalient    space  0.681501
+9    go  nonsalient    space  0.683402
+10   go  nonsalient    space  0.425588
+13   go     salient    space  0.589813
+14   go     salient    space  0.488151
+17   go     salient    space  0.519590
+18   go     salient    space  0.453601
+19   go     salient    space  0.709705
+20   go  nonsalient    space  0.622067
+task   condition response        RT
+27   go  nonsalient    space  0.501521
+28   go  nonsalient    space  0.440822
+30   go     salient    space  0.404668
+31   go  nonsalient    space  0.447180
+32   go     salient    space  0.414337
+33   go  nonsalient    space  0.390712
+35   go  nonsalient    space  0.496785
+37   go     salient    space  0.540462
+38   go     salient    space  0.413180
+39   go     salient    space  0.419541
+task   condition response        RT
+5    go     salient    space  0.383070
+6    go     salient    space  0.373583
+7    go  nonsalient    space  0.442749
+8    go  nonsalient    space  0.372978
+10   go     salient    space  0.351331
+13   go  nonsalient    space  0.359705
+14   go     salient    space  0.326366
+17   go  nonsalient    space  0.404646
+task   condition response        RT
+23   go     salient    space  0.379271
+24   go  nonsalient    space  0.354120
+25   go     salient    space  0.328018
+27   go  nonsalient    space  0.356309
+30   go     salient    space  0.370306
+31   go  nonsalient    space  0.359748
+33   go  nonsalient    space  0.356694
+35   go     salient    space  0.346551
+36   go     salient    space  0.347873
+41   go  nonsalient    space  0.389136
+task   condition response        RT
+3    go  nonsalient    space  0.442672
+8    go     salient    space  0.489472
+9    go     salient    space  0.488934
+11   go  nonsalient    space  0.415456
+13   go     salient    space  0.398734
+14   go     salient    space  0.381503
+15   go  nonsalient    space  0.373704
+17   go  nonsalient    space  0.426666
+20   go     salient    space  0.401664
+task   condition response        RT
+24   go  nonsalient    space  0.492783
+28   go  nonsalient    space  0.531602
+31   go     salient    space  0.446968
+32   go  nonsalient    space  0.501559
+34   go     salient    space  0.435002
+36   go  nonsalient    space  0.363341
+39   go     salient    space  0.424703
+41   go     salient    space  0.313139
+task   condition response        RT
+5    go  nonsalient    space  0.565211
+8    go  nonsalient    space  0.689170
+10   go     salient    space  0.679726
+11   go  nonsalient    space  0.519217
+13   go     salient    space  0.478646
+16   go     salient    space  0.404739
+17   go  nonsalient    space  0.568345
+18   go  nonsalient    space  0.505878
+19   go     salient    space  0.523014
+task   condition response        RT
+23   go  nonsalient    space  0.518825
+25   go  nonsalient    space  0.447360
+27   go  nonsalient    space  0.429995
+29   go  nonsalient    space  0.616511
+30   go  nonsalient    space  0.629440
+32   go     salient    space  0.482252
+34   go     salient    space  0.634966
+35   go     salient    space  0.758507
+37   go     salient    space  0.526718
+39   go     salient    space  0.567384
+task   condition response        RT
+3    go     salient    space  0.567177
+5    go  nonsalient    space  0.492253
+7    go  nonsalient    space  0.493201
+10   go  nonsalient    space  0.514278
+11   go  nonsalient    space  0.454331
+12   go     salient    space  0.452614
+13   go     salient    space  0.389932
+15   go     salient    space  0.398212
+17   go     salient    space  0.513014
+task   condition response        RT
+22   go  nonsalient    space  0.430509
+24   go     salient    space  0.474813
+26   go     salient    space  0.445806
+27   go  nonsalient    space  0.532764
+29   go     salient    space  0.504922
+30   go  nonsalient    space  0.374806
+31   go     salient    space  0.401984
+38   go  nonsalient    space  0.436980
+40   go     salient    space  0.475918
+41   go  nonsalient    space  0.354884
+participant   mean RT stimulus_type      shape
+0          P-1  0.653249       salient  rectangle
+1          P-1  0.629906    nonsalient  rectangle
+2          P-1  0.533620       salient     circle
+3          P-1  0.510774    nonsalient     circle
+4          P-2  0.394242       salient  rectangle
+5          P-2  0.406182    nonsalient  rectangle
+6          P-2  0.407937       salient     circle
+7          P-2  0.381301    nonsalient     circle
+8          P-3  0.538413       salient  rectangle
+9          P-3  0.549490    nonsalient  rectangle
+10         P-3  0.491234       salient     circle
+11         P-3  0.450080    nonsalient     circle
+12         P-4  0.552172       salient  rectangle
+13         P-4  0.615636    nonsalient  rectangle
+14         P-4  0.438438       salient     circle
+15         P-4  0.455404    nonsalient     circle
+16         P-5  0.358588       salient  rectangle
+17         P-5  0.395019    nonsalient  rectangle
+18         P-5  0.354404       salient     circle
+19         P-5  0.363202    nonsalient     circle
+20         P-6  0.432062       salient  rectangle
+21         P-6  0.414625    nonsalient  rectangle
+22         P-6  0.404953       salient     circle
+23         P-6  0.472321    nonsalient     circle
+24         P-7  0.521532       salient  rectangle
+25         P-7  0.569564    nonsalient  rectangle
+26         P-7  0.593965       salient     circle
+27         P-7  0.528426    nonsalient     circle
+28         P-8  0.464190       salient  rectangle
+29         P-8  0.488516    nonsalient  rectangle
+30         P-8  0.460689       salient     circle
+31         P-8  0.425989    nonsalient     circle
+Salient rectangle mean RT 0.464189694984816
+Non-salient rectangle mean 0.48851609296980314
+Salient circle mean RT 0.4606887412257492
+Non-salient circle mean 0.4259886142099276
+                  Anova
+================================================
+                 F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type        0.1974 1.0000 7.0000 0.6702
+shape                4.5036 1.0000 7.0000 0.0715
+stimulus_type:shape  2.4455 1.0000 7.0000 0.1618
+================================================
+
+type      shape response        RT
+57   st     circle    right  0.506392
+60   st  rectangle    right  0.508092
+66   st  rectangle    right  0.762339
+78   st     circle    right  0.572713
+  type      shape response        RT
+48  nonst     circle     left  0.294259
+49  nonst  rectangle     left  1.055223
+52  nonst     circle     left  0.338247
+53  nonst     circle     left  0.311315
+56  nonst     circle     left  0.414012
+59  nonst     circle     left  1.003291
+68  nonst  rectangle     left  0.547879
+69  nonst  rectangle     left  0.906706
+72  nonst  rectangle     left  0.447149
+77  nonst  rectangle     left  1.055176
+82  nonst  rectangle     left  0.398083
+type      shape response        RT
+45   st     circle    right  0.318193
+47   st  rectangle    right  0.339922
+48   st     circle    right  0.272407
+54   st  rectangle    right  0.295402
+56   st     circle    right  0.273030
+59   st  rectangle    right  0.273671
+60   st  rectangle    right  0.246373
+62   st     circle    right  0.278493
+70   st  rectangle    right  0.358952
+71   st  rectangle    right  0.288557
+72   st  rectangle    right  0.236861
+76   st     circle    right  0.288543
+79   st     circle    right  0.280206
+  type      shape response        RT
+49  nonst     circle     left  0.341522
+53  nonst  rectangle     left  0.285067
+57  nonst  rectangle     left  0.261725
+63  nonst  rectangle     left  0.265253
+65  nonst  rectangle     left  0.263738
+68  nonst     circle     left  0.247917
+69  nonst  rectangle     left  0.245007
+74  nonst     circle     left  0.266785
+75  nonst  rectangle     left  0.301147
+82  nonst     circle     left  0.282238
+type      shape response        RT
+49   st  rectangle    right  0.452246
+58   st  rectangle    right  0.446604
+60   st     circle    right  0.433171
+63   st     circle    right  0.459339
+68   st  rectangle    right  0.351290
+69   st     circle    right  0.418392
+70   st  rectangle    right  0.402338
+72   st  rectangle    right  0.457052
+  type      shape response        RT
+50  nonst     circle     left  0.418266
+53  nonst     circle     left  0.283752
+55  nonst  rectangle     left  0.622001
+57  nonst     circle     left  0.376301
+64  nonst  rectangle     left  0.443484
+73  nonst     circle     left  0.393373
+76  nonst     circle     left  0.661728
+79  nonst     circle     left  0.401141
+80  nonst  rectangle     left  0.613881
+type      shape response        RT
+43   st     circle    right  1.704737
+47   st     circle    right  1.178391
+48   st  rectangle    right  1.265499
+49   st     circle    right  1.476851
+53   st     circle    right  0.558467
+54   st  rectangle    right  0.497195
+61   st  rectangle    right  0.772068
+64   st     circle    right  0.853040
+67   st  rectangle    right  1.176647
+72   st     circle    right  0.294495
+  type      shape response        RT
+45  nonst  rectangle     left  1.306624
+50  nonst  rectangle     left  0.663074
+51  nonst     circle     left  0.821791
+59  nonst     circle     left  1.293724
+60  nonst  rectangle     left  0.936831
+65  nonst     circle     left  0.703537
+66  nonst     circle     left  0.854459
+69  nonst  rectangle     left  0.595119
+71  nonst     circle     left  0.442535
+79  nonst  rectangle     left  0.259822
+81  nonst  rectangle     left  0.003038
+type      shape response        RT
+44   st  rectangle    right  1.046193
+45   st  rectangle    right  1.049893
+48   st     circle    right  0.539645
+53   st  rectangle    right  1.016474
+55   st  rectangle    right  0.913940
+57   st     circle    right  0.470179
+62   st     circle    right  0.427483
+63   st  rectangle    right  0.373719
+64   st     circle    right  0.268758
+67   st  rectangle    right  0.294373
+69   st  rectangle    right  0.948856
+71   st  rectangle    right  0.300935
+72   st  rectangle    right  0.297957
+75   st     circle    right  0.325711
+76   st  rectangle    right  1.048564
+81   st     circle    right  0.238198
+  type      shape response        RT
+46  nonst  rectangle     left  0.427056
+47  nonst  rectangle     left  1.171990
+56  nonst  rectangle     left  0.822867
+58  nonst     circle     left  0.758359
+59  nonst     circle     left  0.590449
+61  nonst     circle     left  0.582202
+65  nonst  rectangle     left  0.264655
+73  nonst     circle     left  0.240872
+79  nonst  rectangle     left  0.370322
+82  nonst     circle     left  0.338612
+type      shape response        RT
+46   st  rectangle    right  0.494765
+48   st     circle    right  0.463425
+55   st  rectangle    right  0.405670
+59   st  rectangle    right  0.283823
+60   st     circle    right  0.264196
+61   st     circle    right  0.336771
+64   st     circle    right  0.355022
+67   st     circle    right  0.306636
+68   st  rectangle    right  0.230820
+71   st     circle    right  0.281779
+72   st  rectangle    right  0.379833
+79   st     circle    right  0.177908
+81   st  rectangle    right  0.226006
+  type      shape response        RT
+45  nonst  rectangle     left  0.542591
+49  nonst     circle     left  0.418281
+57  nonst  rectangle     left  0.279912
+58  nonst     circle     left  0.310900
+62  nonst  rectangle     left  0.340006
+66  nonst     circle     left  0.363167
+73  nonst  rectangle     left  0.314126
+77  nonst     circle     left  0.391193
+type      shape response        RT
+47   st  rectangle    right  0.317273
+58   st  rectangle    right  0.361881
+62   st     circle    right  0.318301
+66   st  rectangle    right  0.246974
+75   st     circle    right  0.338467
+79   st     circle    right  0.287033
+80   st     circle    right  0.307064
+82   st     circle    right  0.328916
+  type      shape response        RT
+45  nonst  rectangle     left  0.405306
+46  nonst  rectangle     left  0.344705
+49  nonst  rectangle     left  0.671117
+52  nonst     circle     left  0.384966
+54  nonst     circle     left  0.361145
+59  nonst     circle     left  0.503902
+60  nonst  rectangle     left  0.348944
+65  nonst     circle     left  0.402778
+70  nonst     circle     left  0.280957
+72  nonst     circle     left  0.279011
+78  nonst  rectangle     left  0.348284
+81  nonst     circle     left  0.347678
+type      shape response        RT
+44   st     circle    right  1.748067
+48   st  rectangle    right  0.752805
+49   st  rectangle    right  2.403490
+55   st     circle    right  0.479792
+56   st     circle    right  0.276625
+70   st  rectangle    right  0.618273
+72   st     circle    right  0.633777
+73   st  rectangle    right  1.281339
+74   st  rectangle    right  0.546932
+80   st  rectangle    right  0.512818
+82   st  rectangle    right  0.529334
+  type      shape response        RT
+45  nonst     circle     left  1.306782
+46  nonst  rectangle     left  0.946351
+50  nonst     circle     left  0.481370
+51  nonst  rectangle     left  0.318014
+53  nonst  rectangle     left  0.547744
+54  nonst  rectangle     left  0.388378
+58  nonst     circle     left  0.450014
+61  nonst  rectangle     left  0.777409
+64  nonst  rectangle     left  0.532971
+65  nonst     circle     left  0.442243
+69  nonst  rectangle     left  0.512393
+76  nonst     circle     left  0.530798
+77  nonst     circle     left  0.271404
+81  nonst     circle     left  1.173639
+participant   mean RT        type
+0          P-1  0.587384     stimuli
+1          P-1  0.615576  nonstimuli
+2          P-2  0.288508     stimuli
+3          P-2  0.276040  nonstimuli
+4          P-3  0.427554     stimuli
+5          P-3  0.468214  nonstimuli
+6          P-4  0.977739     stimuli
+7          P-4  0.716414  nonstimuli
+8          P-5  0.597555     stimuli
+9          P-5  0.556738  nonstimuli
+10         P-6  0.323589     stimuli
+11         P-6  0.370022  nonstimuli
+12         P-7  0.313239     stimuli
+13         P-7  0.389899  nonstimuli
+14         P-8  0.889386     stimuli
+15         P-8  0.619965  nonstimuli
+Stimuli mean RT 0.8893864281920039
+Non-stimuli mean RT 0.6199649661347004
+           Anova
+=================================
+  F Value Num DF Den DF Pr > F
+---------------------------------
+type  1.0041 1.0000 7.0000 0.3497
+=================================
+
+
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    4    1
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+stimulus_type  hits  misses  CRs  FAs
+0       salient     5       0    5    0
+1    nonsalient     5       0    5    0
+participant   d'  criterion stimulus_type      shape  hits  correct rejections  false alarms  misses
+0          P-1  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+1          P-1  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+2          P-1  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+3          P-1  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+4          P-2  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+5          P-2  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+6          P-2  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+7          P-2  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+8          P-3  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+9          P-3  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+10         P-3  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+11         P-3  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+12         P-4  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+13         P-4  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+14         P-4  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+15         P-4  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+16         P-5  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+17         P-5  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+18         P-5  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+19         P-5  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+20         P-6  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+21         P-6  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+22         P-6  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+23         P-6  inf       -inf    nonsalient     circle   1.0                 0.8           0.2     0.0
+24         P-7  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+25         P-7  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+26         P-7  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+27         P-7  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+28         P-8  inf        NaN       salient  rectangle   1.0                 1.0           0.0     0.0
+29         P-8  inf        NaN    nonsalient  rectangle   1.0                 1.0           0.0     0.0
+30         P-8  inf        NaN       salient     circle   1.0                 1.0           0.0     0.0
+31         P-8  inf        NaN    nonsalient     circle   1.0                 1.0           0.0     0.0
+d' (nonsalient block 1): inf
+criterion (nonsalient block 1): nan
+d' (salient block 1): inf
+criterion (salient block 1): nan
+d' (nonsalient block 2): inf
+criterion (nonsalient block 2): nan
+d' (salient block 2): inf
+criterion (salient block 2): nan
+                  Anova
+================================================
+                 F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type           nan 1.0000 7.0000    nan
+shape                   nan 1.0000 7.0000    nan
+stimulus_type:shape     nan 1.0000 7.0000    nan
+================================================
+
+                  Anova
+================================================
+                 F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type           nan 1.0000 7.0000    nan
+shape                   nan 1.0000 7.0000    nan
+stimulus_type:shape     nan 1.0000 7.0000    nan
+================================================
+
+condition  hits  misses  CRs  FAs
+0     salient rectangle     2       3    2    3
+1  nonsalient rectangle     1       4    4    1
+2        salient circle     2       3    2    3
+3     nonsalient circle     0       5    3    2
+condition  hits  misses  CRs  FAs
+0     salient rectangle     4       1    4    1
+1  nonsalient rectangle     3       2    3    2
+2        salient circle     3       2    3    2
+3     nonsalient circle     4       1    2    3
+condition  hits  misses  CRs  FAs
+0     salient rectangle     2       3    1    4
+1  nonsalient rectangle     3       2    3    2
+2        salient circle     2       3    4    1
+3     nonsalient circle     3       2    3    2
+condition  hits  misses  CRs  FAs
+0     salient rectangle     2       3    4    1
+1  nonsalient rectangle     2       3    2    3
+2        salient circle     3       2    2    3
+3     nonsalient circle     4       1    3    2
+condition  hits  misses  CRs  FAs
+0     salient rectangle     5       0    3    2
+1  nonsalient rectangle     5       0    2    3
+2        salient circle     2       3    3    2
+3     nonsalient circle     4       1    2    3
+condition  hits  misses  CRs  FAs
+0     salient rectangle     5       0    2    3
+1  nonsalient rectangle     1       4    2    3
+2        salient circle     3       2    2    3
+3     nonsalient circle     4       1    3    2
+condition  hits  misses  CRs  FAs
+0     salient rectangle     2       3    4    1
+1  nonsalient rectangle     2       3    3    2
+2        salient circle     3       2    3    2
+3     nonsalient circle     3       2    4    1
+condition  hits  misses  CRs  FAs
+0     salient rectangle     3       2    4    1
+1  nonsalient rectangle     5       0    3    2
+2        salient circle     2       2    4    1
+3     nonsalient circle     2       3    4    1
+participant    dPrime  criterion          stimulus_type  hits  correct rejections  false alarms  misses
+0          P-1 -0.317221   0.683011     salient_rectangles   0.2                 0.2           0.3     0.3
+1          P-1  0.000000   1.281552  nonsalient_rectangles   0.1                 0.4           0.1     0.4
+2          P-1 -0.317221   0.683011        salient_circles   0.2                 0.2           0.3     0.3
+3          P-1      -inf        inf     nonsalient_circles   0.0                 0.3           0.2     0.5
+4          P-2  1.028204   0.767449     salient_rectangles   0.4                 0.4           0.1     0.1
+5          P-2  0.317221   0.683011  nonsalient_rectangles   0.3                 0.3           0.2     0.2
+6          P-2  0.317221   0.683011        salient_circles   0.3                 0.3           0.2     0.2
+7          P-2  0.271053   0.388874     nonsalient_circles   0.4                 0.2           0.3     0.1
+8          P-3 -0.588274   0.547484     salient_rectangles   0.2                 0.1           0.4     0.3
+9          P-3  0.317221   0.683011  nonsalient_rectangles   0.3                 0.3           0.2     0.2
+10         P-3  0.439930   1.061586        salient_circles   0.2                 0.4           0.1     0.3
+11         P-3  0.317221   0.683011     nonsalient_circles   0.3                 0.3           0.2     0.2
+12         P-4  0.439930   1.061586     salient_rectangles   0.2                 0.4           0.1     0.3
+13         P-4 -0.317221   0.683011  nonsalient_rectangles   0.2                 0.2           0.3     0.3
+14         P-4  0.000000   0.524401        salient_circles   0.3                 0.2           0.3     0.2
+15         P-4  0.588274   0.547484     nonsalient_circles   0.4                 0.3           0.2     0.1
+16         P-5  0.841621   0.420811     salient_rectangles   0.5                 0.3           0.2     0.0
+17         P-5  0.524401   0.262200  nonsalient_rectangles   0.5                 0.2           0.3     0.0
+18         P-5  0.000000   0.841621        salient_circles   0.2                 0.3           0.2     0.3
+19         P-5  0.271053   0.388874     nonsalient_circles   0.4                 0.2           0.3     0.1
+20         P-6  0.524401   0.262200     salient_rectangles   0.5                 0.2           0.3     0.0
+21         P-6 -0.757151   0.902976  nonsalient_rectangles   0.1                 0.2           0.3     0.4
+22         P-6  0.000000   0.524401        salient_circles   0.3                 0.2           0.3     0.2
+23         P-6  0.588274   0.547484     nonsalient_circles   0.4                 0.3           0.2     0.1
+24         P-7  0.439930   1.061586     salient_rectangles   0.2                 0.4           0.1     0.3
+25         P-7  0.000000   0.841621  nonsalient_rectangles   0.2                 0.3           0.2     0.3
+26         P-7  0.317221   0.683011        salient_circles   0.3                 0.3           0.2     0.2
+27         P-7  0.757151   0.902976     nonsalient_circles   0.3                 0.4           0.1     0.2
+28         P-8  0.757151   0.902976     salient_rectangles   0.3                 0.4           0.1     0.2
+29         P-8  0.841621   0.420811  nonsalient_rectangles   0.5                 0.3           0.2     0.0
+30         P-8  0.439930   1.061586        salient_circles   0.2                 0.4           0.1     0.2
+31         P-8  0.439930   1.061586     nonsalient_circles   0.2                 0.4           0.1     0.3
+d' (nonsalient rectangles): 0.1322987734727527
+criterion (nonsalient rectangles): 0.6395201093230207
+d' (salient rectangles): 0.49185197071893905
+criterion (salient rectangles): 0.7177276020112671
+d' (nonsalient circles): 0.4618510265274043
+criterion (nonsalient circles): 0.6457556091968729
+d' (salient circles): 0.216328872239017
+criterion (salient circles): 0.7685166863410665
+
+Anova
+================================================
+F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type        0.3385 1.0000 6.0000 0.5819
+shape                0.0265 1.0000 6.0000 0.8759
+stimulus_type:shape  2.8634 1.0000 6.0000 0.1416
+================================================
+
+Anova
+================================================
+F Value Num DF Den DF Pr > F
+------------------------------------------------
+stimulus_type        1.5520 1.0000 6.0000 0.2593
+shape                0.0724 1.0000 6.0000 0.7968
+stimulus_type:shape  0.0618 1.0000 6.0000 0.8120
+================================================
